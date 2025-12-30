@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "abdiaiz",
+        "age" : 24,
+        "id" : 3,
+        "city" : "nairobi"
+    },
+    {
+        "name" : "mohamed",
+        "age" : 26,
+        "id" : 2,
+        "city" : "nairobi"
+    }
+]
